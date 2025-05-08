@@ -38,6 +38,8 @@ no information
 
 **STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction**
 
+arxiv:  [[2504.19749] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction](https://arxiv.org/abs/2504.19749)
+
 github: [GitHub - lzzzzzm/STCOcc: [CVPR2025] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction](https://github.com/lzzzzzm/STCOcc)
 
 **OccMamba: Semantic Occupancy Prediction with State Space Models**
@@ -63,3 +65,43 @@ arxiv: [[2503.15185] 3D Occupancy Prediction with Low-Resolution Queries via Pro
 **TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression**
 
 github: [GitHub - xinjiewang1995/TopNet: [CVPR 2025] This is the official PyTorch implementation of our paper "TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression"](https://github.com/xinjiewang1995/TopNet) (coming soon)
+
+#### ICLR25
+
+**DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes**
+
+arxiv: [[2410.18084] DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes](https://arxiv.org/abs/2410.18084)
+
+github: [3DTopia/DynamicCity: [ICLR 2025 Spotlight] Official implementation for "DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes"](https://github.com/3DTopia/DynamicCity)
+
+**OccProphet: Pushing the Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with an Observer-Forecaster-Refiner Framework**
+
+arxiv: [[2502.15180v1] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://arxiv.org/abs/2502.15180v1)
+
+github: [JLChen-C/OccProphet: [ICLR2025] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://github.com/JLChen-C/OccProphet) (to be completed)
+
+**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**
+
+arxiv: [[2502.07309] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2502.07309)
+
+github: [getterupper/PreWorld: [ICLR 2025] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving](https://github.com/getterupper/PreWorld)
+
+**$\alpha$-OCC: Uncertainty-Aware Camera-based 3D Semantic Occupancy Prediction (rejected)**
+
+arxiv: [[2406.11021] $α$-OCC: Uncertainty-Aware Camera-based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2406.11021)
+
+**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model (rejected)**
+
+arxiv: [[2410.10429v1] DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429v1)
+
+github: [gusongen/DOME: official code of *DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model*](https://github.com/gusongen/DOME)
+
+**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving (rejected)**
+
+arxiv: [[2405.20337] OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337)
+
+github: [wzzheng/OccSora: OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://github.com/wzzheng/OccSora)
+
+**BiC-Occ: Bi-directional Circulated 3D Occupancy Prediction for Autonomous Driving (rejected)**
+
+openreview: [BiC-Occ: Bi-directional Circulated 3D Occupancy Prediction for Autonomous Driving | OpenReview](https://openreview.net/forum?id=fMvcffpsDo)
