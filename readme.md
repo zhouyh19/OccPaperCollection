@@ -105,3 +105,18 @@ github: [wzzheng/OccSora: OccSora: 4D Occupancy Generation Models as World Simul
 **BiC-Occ: Bi-directional Circulated 3D Occupancy Prediction for Autonomous Driving (rejected)**
 
 openreview: [BiC-Occ: Bi-directional Circulated 3D Occupancy Prediction for Autonomous Driving | OpenReview](https://openreview.net/forum?id=fMvcffpsDo)
+
+#### Others
+
+**Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (AAAI25)**
+
+arxiv: [[2408.14197] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)
+
+github: [yuyang-cloud/Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (AAAI-25)](https://github.com/yuyang-cloud/Drive-OccWorld)
+
+**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View
+ 3D Occupancy Prediction (AAAI25)**
+
+arxiv: [[2412.11210] ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction](https://arxiv.org/abs/2412.11210)
+
+github: [fengyi233/ViPOcc](https://github.com/fengyi233/ViPOcc)
